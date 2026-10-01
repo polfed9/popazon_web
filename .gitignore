@@ -1,0 +1,28 @@
+# Node & dipendenze web
+node_modules/
+dist/
+
+# File di configurazione sensibili
+
+.env
+.env.local
+
+# Editor e IDE
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# File temporanei di sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# File multimediali pesanti
+*.mp4
+*.avi
+*.mov
+*.wmv

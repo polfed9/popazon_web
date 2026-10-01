@@ -1,0 +1,9 @@
+{
+    "db" : {
+        "servername" : "localhost",
+        "username" :"root", 
+        "password" :"",
+        "dbname" : "POPAZON",
+        "port" : "3308"
+    }
+}
